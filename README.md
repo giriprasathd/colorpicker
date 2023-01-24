@@ -1,7 +1,7 @@
 # Color Palette generator built using Svelte.
 
 This is a small project I built to test out Svelte. 
-A demo can be found on https://palalette.vercel.app/
+A demo can be found on [Colorpicker](https://colorpicker-giriprasathd.vercel.app/)
 
 
 # Features
